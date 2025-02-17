@@ -1,53 +1,55 @@
-<h2 align="left">Hi 👋! My name is Francesco and I'm a amateur dev from Italy</h2>
+## 📌 About Me  
+👋 Hi! My name is **Francesco**, and I am a **self-taught developer** from Italy.  
+💻 I started studying computer science at the age of **8** and have been learning new technologies and programming languages ever since.  
+🔒 Currently, I am expanding my knowledge in **cybersecurity**.  
 
-###
+---
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBvdXBhamgyYnYza2N5enNwaTQ2eWRkdnA2ZWhxNDhwMzNjdXNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif"  />
+## 🚀 Tech Stack  
 
-###
+### 🖥️ **Programming Languages**  
+| Language | Proficiency |
+|------------|-----------|
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python** | ⭐⭐⭐⭐☆ (80%) |
+| ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) **C** | ⭐⭐⭐☆☆ (60%) |
+| ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) **C++** | ⭐⭐⭐☆☆ (65%) |
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) **Java** | ⭐⭐⭐☆☆ (60%) |
+| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) **JavaScript** | ⭐⭐⭐⭐☆ (75%) |
+| ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) **TypeScript** | ⭐⭐⭐☆☆ (55%) |
+| ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) **HTML5** | ⭐⭐⭐⭐⭐ (90%) |
+| ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) **CSS3** | ⭐⭐⭐⭐☆ (80%) |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
+---
 
-###
+### 🏗️ **Frameworks & Libraries**  
+| Framework / Library | Proficiency |
+|----------------------|-----------|
+| ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) **React** | ⭐⭐⭐☆☆ (65%) |
+| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) **Node.js** | ⭐⭐⭐☆☆ (60%) |
+| ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) **Bootstrap** | ⭐⭐⭐⭐⭐ (90%) |
 
-<div align="left">
-  <a href="https://www.instagram.com/checco_dinisi?igsh=MTFwNXR2c2xkZHRwcg==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="Sahkaara" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="dinisi.freancesco07@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+### 🖥️ **Operating Systems**  
+| Operating System | Proficiency |
+|------------------|-----------|
+| ![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg) **Windows** | ⭐⭐⭐⭐⭐ (100%) |
+| ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg) **Ubuntu** | ⭐⭐⭐⭐☆ (85%) |
+| ![Kali Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) **Kali Linux** | ⭐⭐⭐☆☆ (60%) |
+| ![Debian](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg) **Debian** | ⭐⭐⭐☆☆ (65%) |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
+---
 
-###
+## 📬 Contact  
+📷 **Instagram** → [@checco_dinisi](https://www.instagram.com/checco_dinisi?igsh=MTFwNXR2c2xkZHRwcg==)  
+💬 **Discord** → **Sahkaara**  
+📧 **Email** → **dinisi.freancesco07@gmail.com**  
+
+---
+
+## 🎬 Fun GIF  
+<p align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBvdXBhamgyYnYza2N5enNwaTQ2eWRkdnA2ZWhxNDhwMzNjdXNyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif" />
+</p>
+
+---
