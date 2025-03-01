@@ -58,16 +58,12 @@
 
 ## 📂 Projects  
 <p align="center">
-  <a href="https://github.com/your-username/project-name1" target="_blank">
+  <a href="https://github.com/Sahkaara/Financial_shares_tracker" target="_blank">
     <img src="https://img.shields.io/badge/Project%201-Click%20to%20view-blue?style=for-the-badge&logo=github" alt="Project 1"/>
   </a>
-  <a href="https://github.com/your-username/project-name2" target="_blank">
+  <a href="https://github.com/Sahkaara/Generatore_di_README.md" target="_blank">
     <img src="https://img.shields.io/badge/Project%202-Click%20to%20view-blue?style=for-the-badge&logo=github" alt="Project 2"/>
   </a>
-  <a href="https://github.com/your-username/project-name3" target="_blank">
-    <img src="https://img.shields.io/badge/Project%203-Click%20to%20view-blue?style=for-the-badge&logo=github" alt="Project 3"/>
-  </a>
-</p>
 
 ---
 
