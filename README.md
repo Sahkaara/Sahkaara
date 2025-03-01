@@ -100,7 +100,7 @@
 ## 🎨 Fun Facts  
 - 🎮 I love playing video games in my free time.
 - 📚 I enjoy reading books about technology and science fiction.
-- 🚴 I like cycling and exploring new places.
+- 🏋️ I enjoy going to the gym.
 - 🍕 Pizza is my favorite food!
 
 ---
