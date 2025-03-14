@@ -78,7 +78,7 @@
 ## 📬 Contact  
 <p align="center">
   <a href="https://www.instagram.com/checco_dinisi?igshid=MTFwNXR2c2xkZHRwcg==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="30" /></a>
-  <a href="mailto:dinisi.francesco@outlook.it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" alt="Outlook" height="30" width="30" /></a>
+  <a href="mailto:francesco.dev@ik.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" alt="Outlook" height="30" width="30" /></a>
   <a href="https://discord.com/users/Sahkaara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="30" width="30" /></a>
 </p>
 
