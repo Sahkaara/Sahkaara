@@ -77,9 +77,9 @@
 
 ## 📬 Contact  
 <p align="center">
-  <a href="https://www.instagram.com/checco_dinisi?igshid=MTFwNXR2c2xkZHRwcg==" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="30" /></a>
-  <a href="mailto:francesco.dev@ik.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" alt="Outlook" height="30" width="30" /></a>
-  <a href="https://discord.com/users/Sahkaara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" height="30" width="30" /></a>
+<a href="https://instagram.com/_checco_dinisi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_checco_dinisi_" height="30" width="40" /></a>
+   <a href="mailto:francesco.dev@ik.me" target="_blank" style="margin: 10px;"><img align="center" src="assets/infomaniak.svg" alt="mail.com" height="40" width="40" style="margin: 10px; fill: #8A2BE2;/></a>
+<a href="https://discord.gg/Sahkaara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sahkaara" height="30" width="40" /></a>
 </p>
 
 ---
