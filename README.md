@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:243B55,100:7C3AED&height=220&section=header&text=FRANCESCO&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Francesco animated header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Self-taught+developer+from+Italy;Python+%7C+C%2B%2B+%7C+Java;Exploring+Cybersecurity+%26+Networking;Learning+Something+New+Every+Day" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Self-taught+developer+from+Italy;Python+%7C+C%2B%2B+%7C+Java;Exploring+Cybersecurity+%26+Networking;Learning+Something+New+Every+Day" alt="Animated introduction" /> <br>
 
   <a href="https://github.com/Sahkaara">
     <img src="https://img.shields.io/badge/GitHub-Sahkaara-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
