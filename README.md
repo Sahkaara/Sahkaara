@@ -45,7 +45,7 @@ My passion for computer science started at the age of 8. Since then, I've contin
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian&theme=dark&perline=5" alt="Windows, Linux, Ubuntu and Debian" />
   <a href="https://parrotsec.org/">
-    <img src="./assets/Parrot_OS_logo.svg" width="48" height="48" alt="Parrot OS" />
+    <img src="./assets/parrot-os.png" width="48" height="48" alt="Parrot OS" />
   </a>
 </div>
 
