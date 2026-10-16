@@ -89,8 +89,11 @@ My passion for computer science started at the age of 8. Since then, I've contin
 
 <div align="center">
   <img height="175" src="https://github-readme-stats.vercel.app/api?username=sahkaara&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahkaara&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-</div>
+<img
+  height="175"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahkaara&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  alt="Most used programming languages"
+/>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com/?user=sahkaara&hide_border=true&background=0D1117&ring=7C3AED&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
